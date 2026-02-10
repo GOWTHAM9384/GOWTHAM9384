@@ -10,30 +10,6 @@ Hi 👋, I’m Gowtham
 
 🐙 GitHub: Gowtham GitHub
 
-🔭 What I’m Working On
-
-🤖 Integrating AI into real-world software products
-
-⚙️ Java & Spring Boot based backend systems
-
-🌐 Full stack applications using React, Next.js & Node.js/Express.js
-
-🔐 Secure APIs (JWT, role-based access)
-
-🤖 AI Agents & LLM Stack
-
-AI Agents Ollama Ollama API Server Meta LLaMA 3 DeepSeek Coder Code_LLaMA Hugging_Face LangChain Workflow_Automation LLMs
-
-🛠️ Tech Stack
-
-HTML5 CSS3 JavaScript Bootstrap Tailwind CSS Java Python
-
-React React Native Next.js Node.js Express.js  REST API JWT
-
-MySQL MongoDB 
-
-Git GitHub Postman Render
-
 
 # Tech Stack & Languages
 
