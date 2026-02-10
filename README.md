@@ -6,9 +6,9 @@ Hi 👋, I’m Gowtham
 
 🌐 Portfolio: https://your-portfolio-link.com
 
-💼 LinkedIn: Gowtham LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/gowtham-v-925a6b268/
 
-🐙 GitHub: Gowtham GitHub
+🐙 GitHub: https://github.com/GOWTHAM9384
 
 
 # Tech Stack & Languages
