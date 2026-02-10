@@ -36,7 +36,7 @@ Hi 👋, I’m Gowtham
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Render](https://render.com/images/badges/deploy.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/<your-site-id>/deploy-status)](https://app.netlify.com/sites/<your-site-name>/deploys)
+
 
 
 
